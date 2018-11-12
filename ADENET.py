@@ -686,7 +686,7 @@ if __name__ == '__main__':
     micUsedPositions = micPositions[listMicros, :]
     micPositions = np.transpose(micUsedPositions)
 
-    aWin = 80
+    aWin = 80	# Used audio window (in ms)
 
     Train = False
     FineTuning = True
