@@ -15,6 +15,9 @@ matplotlib
 ```
 
 ## Run the software
+The given code is set to train with "synthetic" data, generated from [Albayzin Corpus](http://catalogue.elra.info/en-us/repository/browse/ELRA-S0089/), and fine tuning and testing on [IDIAP room](http://www.idiap.ch/dataset/av16-3/) recordings.
+
+
 
 ### ADENET architecture
 
