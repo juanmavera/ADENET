@@ -27,5 +27,5 @@ For more information about any procedure, read this [paper](http://www.mdpi.com/
 
 ## Authors
 * **Juan Manuel Vera-Diaz**
-* **Daniel Pizarro**
+* **Daniel Pizarro Pérez**
 * **Javier Macias-Guarasa**
