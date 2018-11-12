@@ -4,4 +4,4 @@ This code have been used in the paper "Towards End-to-End Acoustic Localization 
 
 ### ADENET architecture
 
-<img src="ADENET/images/Adenet_architecture.png"/>
+<img src="juanmavera/ADENET/images/Adenet_architecture.png"/>
