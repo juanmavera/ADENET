@@ -26,6 +26,6 @@ For more information about any procedure, read this [paper](http://www.mdpi.com/
 <img style= "center" src="https://github.com/juanmavera/ADENET/blob/master/images/Adenet_architecture.png" />
 
 ## Authors
-* **Juan Manuel Vera-Diaz**
+* **Juan Manuel Vera Díaz**
 * **Daniel Pizarro Pérez**
-* **Javier Macias-Guarasa**
+* **Javier Macías Guarasa**
